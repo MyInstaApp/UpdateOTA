@@ -1,5 +1,5 @@
 {
   "version": "24.0",
-  "changelog": "— Added 'Show GhostMode status' toggle in Miscellaneous section of MyInsta Settings\n— Improved 'Story ring scale factor feature' (no longer need to enable 'large avatar' experiments)\n— Fixed avatar size in DMs when enabling 'Improve photo viewing quality'\n— Fixed some crashes related to themes",
+  "changelog": "— Added 'Show GhostMode status' toggle in Miscellaneous section of MyInsta Settings\n— Improved 'Story ring scale factor' feature compatibility\n— Fixed avatar size in DMs when enabling 'Improve photo viewing quality'\n— Fixed some crashes related to themes",
   "link": "https://www.mediafire.com/file/5zpp304ny1brwd1/MyInsta_v24.1_338.0.0.31.95_C_32bits.apk/file"
 }
