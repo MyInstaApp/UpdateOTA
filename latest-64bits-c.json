@@ -1,5 +1,5 @@
 {
-  "version": "24.1",
-  "changelog": "— Added 'Show GhostMode status' toggle in Miscellaneous section of MyInsta Settings\n— Improved 'Story ring scale factor' feature compatibility\n— Fixed avatar size in DMs when enabling 'Improve photo viewing quality'\n— Fixed some crashes related to themes",
-  "link": "https://www.mediafire.com/file/v6std2tuoxuo5sv/MyInsta_v24.1_338.0.0.31.95_C_64bits.apk/file"
+  "version": "25.0",
+  "changelog": "— Updated base version\n— Added 'Disable download menu on carousel' toggle in MyInsta Settings\n— Added new translations to MyInsta Settings\n— Improved performances of the app (Thanks to the base version)\n— Fixed contact/location popup appearing when opening the app/switching account",
+  "link": "https://www.mediafire.com/file/e85612n04w3t58v/MyInsta_v25.0_340.0.0.22.109_C_64bits.apk/file"
 }
