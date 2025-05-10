@@ -1,5 +1,5 @@
 {
-  "version": "25.0",
-  "changelog": "— Updated base version\n— Added 'Disable download menu on carousel' toggle in MyInsta Settings\n— Added new translations to MyInsta Settings\n— Improved performances of the app (Thanks to the base version)\n— Fixed contact/location popup appearing when opening the app/switching account",
-  "link": "https://www.mediafire.com/file/dr82i6sf94h6v27/MyInsta_v25.0_340.0.0.22.109_UC_64bits_fixed.apk/file"
+  "version": "26.0",
+  "changelog": "— Updated base version\n— Added anti-revoke notification v1 (it can display the wrong username, it’s a known issue)\n— Added copy comments button when long pressing on comments\n— Improved the copy feature, shows a menu allowing to select only part of a message",
+  "link": "https://devuploads.com/i92uoe02find"
 }
